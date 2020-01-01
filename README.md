@@ -1,0 +1,3 @@
+# Flask Mega-Tutorial Project
+
+This is the repo for my attempt at following the flask mega tutorial. I'll fill this in, and add info later. Right now I'm about to nuke my system and reinstall linux. So...
