@@ -1,3 +1,3 @@
-# Flask Mega-Tutorial Project
+# Flask Microblog
 
-This is the repo for my attempt at following the flask mega tutorial. I'll fill this in, and add info later. Right now I'm about to nuke my system and reinstall linux. So...
+Building a microblogging platform using Python 3 and Flask framework.
